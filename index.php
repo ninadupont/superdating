@@ -5,7 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-<h1>Superdating - love is power</h1>
+<h1>Superdating - Find love</h1>
 <?php
 
 // ensure that php errors are displayed
